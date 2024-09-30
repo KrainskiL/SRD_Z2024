@@ -50,10 +50,9 @@ Konsultacje przez MS Teams lub we wtorki w sali G-111, 08:00-09:40 (po uprzednie
 
 * Literatura podstawowa
   * Materiały udostępniane na wykładzie
-  * Gareth J., Witten D., Hastie T., Tibshirani R. (2021), [An Introduction to Statistical Learning](https://hastie.su.domains/ISLP/ISLP_website.pdf)
-  * [Standardy wizualizacji danych](https://royal-statistical-society.github.io/datavisguide/docs/styling.html)
+  * Gareth J., Witten D., Hastie T., Tibshirani R. (2023), [An Introduction to Statistical Learning](https://www.statlearning.com/)
 * Literatura dodatkowa
-  * Hastie T., Tibshirani R., Friedman J. (2017), [The Elements of Statistical Learning](http://www-stat.stanford.edu/~tibs/ElemStatLearn/)
+  * Hastie T., Tibshirani R., Friedman J. (2017), [The Elements of Statistical Learning](https://hastie.su.domains/Papers/ESLII.pdf)
   * Kamiński B. (2022), [Julia for Data Analysis](https://www.manning.com/books/julia-for-data-analysis)
   * Mykel J. Kochenderfer, Tim A. Wheeler, And Kyle H. Wray (2022), [Algorithms for Decision Making](https://algorithmsbook.com/)
   * Stephen Boyd and Lieven Vandenberghe, [Introduction to Applied Linear Algebra](http://vmls-book.stanford.edu/)
