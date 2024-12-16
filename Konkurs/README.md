@@ -3,7 +3,11 @@
 Należy dobrać się w zespoły złożone z maksymalnie 3 osób. Proszę nazwać zespół (nazwa zespołu pojawi się w tabeli z wynikami). Proszę nie używać danych osobowych w nazwach.
 
 ### Zbiór danych i cel konkursu
-Celem konkursu jest uzyskanie jak największego [**F1-Score**](https://en.wikipedia.org/wiki/F-score) w klasyfikacji zmiennej celu **IsIPA**. Do stworzenia i optymalizacji modelu proszę wykorzystać zbiór danych **IPA.csv**, natomiast finalną predykcję należy wykonać na zbiorze **IPA_test.csv**. Opis zbioru znajduje się w pliku **IPA_description.txt**.
+Celem konkursu jest uzyskanie jak największego:
+* Grupy 11,13,15 - [**F1-Score**](https://en.wikipedia.org/wiki/F-score)
+* Grupy 12,14 - Accuracy
+
+w klasyfikacji zmiennej celu **IsIPA**. Do stworzenia i optymalizacji modelu proszę wykorzystać zbiór danych **IPA.csv**, natomiast finalną predykcję należy wykonać na zbiorze **IPA_test.csv**. Opis zbioru znajduje się w pliku **IPA_description.txt**.
 
 
 ### Wyniki
