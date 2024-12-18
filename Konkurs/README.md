@@ -35,6 +35,18 @@ Grupa 11
 | TOP Modelarze         | 2          | 70,66%       | Logistic Regression                              | Python    |
 | Rower Ojca Mateusza     | 1          | 69,92%       | Logistic Regression                              | Python    |
 
+Grupa 12
+
+| **Zespół**         | **Punkty** | **Accuracy** | **Model**                                   | **Język** |
+|--------------------|------------|--------------|---------------------------------------------|-----------|
+| Crispy Nuggets     | 5          | 87,06%       | Ensemble (XGBoost, LightGBM, Random Forest) | Python    |
+| Dane Osobowe       | 4          | 87,04%       | XGBoost                                     | Python    |
+| Banksterzy         | 3          | 86,68%       | XGBoost                                     | Python    |
+| Tom i Jerry        | 2          | 86,54%       | Boosted Trees                               | Python    |
+| Grupa 3Osobowa     | 1          | 85,98%       | XGBoost                                     | R         |
+| Polish Pale Ale    | 1          | 85,98%       | Random Forest                               | Python    |
+| Eksplodujący Kotek | 0          | 85,84%       | Random Forest                               | Python    |
+
 Grupa 13
 
 | **Zespół**        | **Punkty** | **F1-Score** | **Model**     | **Język** |
@@ -43,6 +55,17 @@ Grupa 13
 | Słodkie Pingwinki | 4          | 78,55%       | Boosted Trees | Python    |
 | BGYSMK            | 3          | 78,12%       | XGBoost       | Python    |
 | AGJM              | 2          | 77,82%       | Random Forest | Python    |
+
+Grupa 14
+
+| **Zespół**             | **Punkty** | **Accuracy** | **Model** | **Język** |
+|------------------------|------------|--------------|-----------|-----------|
+| Optymiści              | 5          | 87,48%       | XGBoost   | Python    |
+| Cokolwiek              | 4          | 87,04%       | XGBoost   | Python    |
+| Cebulaki               | 3          | 86,80%       | XGBoost   | Python    |
+| KJN                    | 3          | 86,80%       | XGBoost   | Python    |
+| Młodzieżowe Słowo Roku | 1          | 86,58%       | XGBoost   | Python    |
+| Goździki               | 0          | 86,24%       | XGBoost   | Python    |
 
 Grupa 15
 
